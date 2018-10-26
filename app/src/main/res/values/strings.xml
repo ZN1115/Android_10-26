@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">D20180928_Jerry</string>
+
+    <string-array name="opt">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>
